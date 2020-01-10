@@ -1,0 +1,13 @@
+
+CSS- cascading style sheets(colors)
+JAVA SCRIPT-
+<h1> heading 1
+<p> paragragh </p>
+open and close and continue writing code
+
+html5- more capability in media.
+     - validate forms
+     -more advanced than html
+
+<tag>
+< anything inside the tag is an element e.g title in head>
