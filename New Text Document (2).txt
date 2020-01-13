@@ -11,3 +11,13 @@ html5- more capability in media.
 
 <tag>
 < anything inside the tag is an element e.g title in head>
+IDE- Integrated development environment
+object oriented cases (use caps otherwise you should always use small letters)
+
+ATTRIBUTES
+<a>- anchor tag <a href(a modifier for 'a' tag used for links)
+images <img>
+img src (source of image), width, height, alt (alternative text- incase image doesn't load especially helpful for blind users)
+save image in the home folder(root)- myinfo. If in a folder mention folder name then/then image name)
+
+HTML STYLE (attribute)
